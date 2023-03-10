@@ -1,0 +1,11 @@
+[
+  {
+    "id": "t146C",
+    "name": "Charmander",
+    "type": "Fire",
+    "hp": 35,
+    "atk": 55,
+    "def": 40,
+    "speed": 90
+  }
+]
